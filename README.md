@@ -1,0 +1,5 @@
+- 👋 Hi, I’m @ViniProgramador
+- 👀 I’m interested in technology and systems
+- 🌱 I’m currently learning python, html5, css3, javascript and databases in general
+- 💞️ I’m looking to collaborate on ...
+- 📫 How to reach me vinicius.h.c.4455@gmail.com (email) www.linkedin.com/in/vinícius-henrique-cardoso/ (LinkedIn)
